@@ -1,0 +1,25 @@
+.header-margin{
+    margin-top: 70px;
+}
+.row-display{
+    display: flex;
+}
+.card-button{
+    min-height: 150px;
+}
+form{
+    width: 100%;
+}
+
+.main{
+    background-size: cover;
+    height: 85vh;
+}
+.form-check-label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:x-large;
+}
+.col-md-12{
+    font-size: large;
+    color: aliceblue;
+}

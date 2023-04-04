@@ -1,0 +1,27 @@
+.header-margin{
+    margin-top: 70px;
+}
+.row-display{
+    display: flex;
+}
+.card-button{
+    min-height: 150px;
+}
+form{
+    width: 100%;
+}
+
+/* body, html {
+    height: 100%;
+} */
+
+.main{
+    background-size: cover;
+    height: 80vh;
+    width:105%;
+}
+.col-md-2{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant-caps: normal;
+}
